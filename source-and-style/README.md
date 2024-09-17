@@ -14,7 +14,7 @@
 From the investigation:
 - Developer information was not found directly.
 - Based on the image, the website seems to have been built by optimx_sports and Illinois Men's Rugby Club member is maintaining it.
-(images/screenshot.png)
+![Example Image](images/screenshot.png)
 
 ## GitHub Repository
 - The GitHub repository for the website is not found.
